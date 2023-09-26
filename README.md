@@ -2,6 +2,11 @@
 
 This template is a clone Nike website with Tailwind CSS
 
+# Features:
+1. Tailwind design
+2. Tailwind animations and effects
+3. Full responsiveness
+
 # Screenshot
 
 ![alt text](1.png)
