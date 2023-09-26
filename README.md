@@ -1,5 +1,4 @@
-# React + TypeScript + Vite
-# Tailwind CSS Nike clone Website
+# React + TypeScript + Vite => Tailwind CSS Nike clone Website
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
