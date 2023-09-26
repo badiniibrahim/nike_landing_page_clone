@@ -1,4 +1,4 @@
-# React + TypeScript + Vite => Tailwind CSS Nike clone Website
+# React + TypeScript + Vite + Tailwind CSS
 
 This template is a clone Nike website with Tailwind CSS
 
